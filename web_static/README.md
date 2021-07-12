@@ -6,3 +6,6 @@ The first step is to “design” / “sketch” / “prototype” each element:
 + Fake contents
 + No Javascript
 + No data loaded from anything
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTk2NTM2NzQwOF19
+-->
