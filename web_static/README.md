@@ -4,9 +4,8 @@ This project we learn how to manipulate HTML and CSS languajes. We take the firs
 
 + Create simple HTML static pages
 + Using the style guide
-+ But, at the moment with fake contents. That means data loaded from anything.
++ But, at the moment with fake contents. That means, the data are loaded from anything.
 + We don't use Javascript, only HTML and CSS
-+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2ODE4MjExMV19
+eyJoaXN0b3J5IjpbLTE5MDgyMjYwODldfQ==
 -->
